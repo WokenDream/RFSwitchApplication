@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DLP2232M_G; // useless for unkown reason
+using DLP2232M_G;
 
 
 namespace RFSwitch
